@@ -1,4 +1,4 @@
-# Dog_Classifier
+# Dog_Breed_Classifier/Human_Detector
 Implements an algorithm to detect humans, dogs and a Dog breed classifier
 ---
 
