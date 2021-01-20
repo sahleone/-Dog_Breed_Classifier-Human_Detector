@@ -26,3 +26,5 @@ Implements an algorithm to detect humans, dogs and a Dog breed classifier
 | torch | 0.4.0 |
 | torchvision | 0.2.1 |
 | pytorch_model_summary |
+| glob | |
+| random | |
